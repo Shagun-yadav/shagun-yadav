@@ -31,12 +31,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 
 <!-- Excel -->
-<a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="excel" width="40" height="40"/>
+  </a>
 
 <!-- Power BI -->
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-<img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/> </a> 
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
+  </a>
 
 <!-- Data Analysis -->
 <a href="https://en.wikipedia.org/wiki/Data_analysis" target="_blank" rel="noreferrer"> 
