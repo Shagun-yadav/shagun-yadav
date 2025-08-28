@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Shagun</h1>
-<h3 align="center">A passionate Developer And Data Analyst A</h3>
+<h3 align="center">A passionate Developer And Data Analyst </h3>
 <img align= "right" alt = "coding" width = "400" src = "https://img.freepik.com/premium-vector/girl-coding-with-laptop-illustration_418302-2384.jpg?w=2000">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shagun-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="shagun-yadav" /> </p>
